@@ -1,0 +1,2 @@
+module LetsStealYourCredentialsHelper
+end
